@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src ="https://media.giphy.com/media/ZXkraFrlIW1D25M6ZJ/giphy.gif">
+### Hi👋 I'm Baljeet
 <!--
 **Baljeetkumarsingh/Baljeetkumarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
